@@ -1,1 +1,1 @@
-# GIT Rebase. Example of merge with no fast forward
+# GIT Rebase. Example of rebase
